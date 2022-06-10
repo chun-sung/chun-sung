@@ -2,7 +2,7 @@
 <img src="https://placeimg.com/200/200/arch">
 
 
-
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 
 
