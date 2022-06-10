@@ -5,7 +5,7 @@
   <li>개발자는 아직 아니지만 개발자가 되고 싶은 사람</li>
   <li>언어: Javascript , Nodejs,  HTML, CSS(SCSS..)</li>
   <li>도구: React, Vue, jQuery </li>
-  <li>희망사항: 웹개발, 웹앱 개발, 앱 개발자가 되고싶은 사람</li>
+  <li>희망사항: 웹, 웹앱, 앱 개발자가 되고싶은 사람</li>
   <li>혼자 공부한시간: 약 5년 정도....</li>
 </ul>
 
