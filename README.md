@@ -2,7 +2,7 @@
 <img src="https://placeimg.com/200/200/arch">
 <p>자기 소개</p>
 <ul>
-  <li>개발자는 아직 아니지만 개발자가 되고 싶은 사람</li>
+  <li>개발자는 아니지만 개발자가 되고 싶은 사람</li>
   <li>언어: Javascript , Nodejs,  HTML, CSS(SCSS..)</li>
   <li>도구: React, Vue, jQuery , MySQL</li>
   <li>희망사항: 웹, 웹앱, 앱 개발자가 되고싶은 사람</li>
