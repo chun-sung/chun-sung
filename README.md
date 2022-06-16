@@ -6,7 +6,7 @@
   <li>언어: Javascript , Nodejs,  HTML, CSS(SCSS..)</li>
   <li>도구: React, Vue, jQuery , MySQL</li>
   <li>희망사항: 웹, 웹앱, 앱 개발이 가능한 사람</li>
-  <li>혼자 공부한시간: 약 5년 정도... </li>  
+  <li>혼자 공부한 시간: 약 5년 정도... </li>  
 </ul>
 
 
