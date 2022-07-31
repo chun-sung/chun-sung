@@ -2,10 +2,10 @@
 <img src="https://placeimg.com/200/200/arch">
 <p>자기 소개</p>
 <ul>
-  <li>웹프로그래밍 개발자가 되고 싶은 사람</li>
+  <li>웹프로그래밍 개발자가 되고 싶은 ...</li>
   <li>언어: Javascript, Typescript, Nodejs,  HTML, CSS(SCSS & SASS)</li>
   <li>도구: React, Vue, jQuery , MySQL, Sequelize, redis, AWS EC2 Linux 2 </li>
-  <li>희망사항: 웹, 웹앱, 앱 개발이 가능한 사람</li>  
+  <li>희망사항: 웹, 웹앱, 앱 개발 가능....</li>  
 </ul>
 
 
