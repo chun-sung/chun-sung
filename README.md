@@ -1,6 +1,6 @@
 <h1>Welcome ~!</h1>
 <img src="https://placeimg.com/200/200/arch">
-<p>자기 소개</p>
+<p>소개</p>
 <ul>
   <li>웹프로그래밍 개발자??</li>
   <li>언어: JavaScript, TypeScript, NodeJS</li>
