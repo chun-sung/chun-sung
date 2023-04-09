@@ -1,8 +1,8 @@
 <h1>Welcome ~!</h1>
 <img src="https://placeimg.com/200/200/arch">
 <p>자기 소개</p>
-<ul>Cancel changes
-  <li>웹프로그래밍 개발자가 되고 싶다</li>
+<ul>
+  <li>웹프로그래밍 개발자??</li>
   <li>언어: Javascript, Typescript, Nodejs, HTML, CSS</li>
   <li>도구: React, Next, vue, jQuery , MySQL, Sequelize, redis, AWS EC2 Linux 2 </li>
   <li>희망사항: 웹, 웹앱, 앱 개발</li>  
