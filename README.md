@@ -5,7 +5,7 @@
   <li>웹프로그래밍 개발자??</li>
   <li>언어: JavaScript, TypeScript, NodeJS</li>
   <li>도구: React, Next, MySQL, Sequelize, redis, AWS EC2 </li>
-  <li>희망사항: 웹 -> 웹앱 -> PWA앱</li>  
+  <li>희망사항: 웹 -> 웹앱 -> PWA</li>  
 </ul>
 
 
